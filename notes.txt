@@ -1,0 +1,2 @@
+The purpose of this pull request is to introduce the initial homepage to the project.
+It allows the changes to be reviewed before they are merged into the main branch.
